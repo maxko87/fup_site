@@ -2,6 +2,7 @@ body {
     background: url(static/images/cream_dust.png) repeat 0 0;
     padding-top: 60px;
     padding-bottom: 40px;
+    font: 14px;
 }
 img {
     max-width: 100%;
@@ -37,4 +38,8 @@ img {
 }
 .whitespace{
     min-height: 120px;
+}
+p, li {
+    font-weight: 000 !important;
+    font-family: arial;
 }

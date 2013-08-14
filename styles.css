@@ -43,3 +43,6 @@ p, li {
     font-weight: 000 !important;
     font-family: arial;
 }
+.notif {
+    color: green;
+}

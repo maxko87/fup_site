@@ -13,3 +13,5 @@ To make major changes:
 
 To make minor changes:
 -Feel free to just make the changes directly in the web_scripts/ folder. Note that these won't reflect in the github repository itself, and should ideally should be pushed to the github repository at some point in the future to maintain a consistent state. 
+
+If you have any questions, email maxko87@gmail.com
